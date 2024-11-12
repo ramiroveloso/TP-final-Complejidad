@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnEV/n/Ualg=",
+  "success": true,
+  "projectFilePath": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\tpfinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrami\\.nuget\\packages\\textfieldparserstandard\\1.0.0\\textfieldparserstandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\rrami\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\rrami\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\rrami\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\rrami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
