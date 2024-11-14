@@ -96,11 +96,11 @@ namespace tpfinal
                 for (int i = 0; i < datos.Count; i++)
                 {
                     int nivel = (int)Math.Floor(Math.Log2(i + 1));  // Calcular el nivel del índice actual
-                    if (!niveles.ContainsKey(nivel))
+                    if (!niveles.ContainsKey(nivel))//si existen elementos en el nivel
                     {
-                        niveles[nivel] = new List<Proceso>();
+                        niveles[nivel] = new List<Proceso>(); //crea una lista de procesos en ese nivel
                     }
-                    niveles[nivel].Add(datos[i]);
+                    niveles[nivel].Add(datos[i]);//agrega los procesos de forma iterativa en el nivel
                 }
 
                 // Crear la cadena de resultados por nivel
@@ -140,7 +140,7 @@ namespace tpfinal
             // Extraer cada proceso del MinHeap y agregarlo a la lista collected
             while (minHeap.Count > 0)
             {
-                collected.Add(minHeap.ExtractMin()); // Extrae el proceso con menor tiempo de CPU y lo agrega
+                collected.Add(minHeap.ExtractMin()); // Extrae el proceso con menor tiempo de CPU y lo agrega a la lista resultante
             }
 
         }
@@ -168,7 +168,7 @@ namespace tpfinal
             // Extraer cada proceso de la MaxHeap y agregarlo a la lista collected
             while (maxHeap.Count > 0)
             {
-                collected.Add(maxHeap.ExtractMax()); // Extrae el proceso con mayor prioridad y lo agrega
+                collected.Add(maxHeap.ExtractMax()); // Extrae el proceso con mayor prioridad y lo agrega a la lista resultante
             }
         }
 

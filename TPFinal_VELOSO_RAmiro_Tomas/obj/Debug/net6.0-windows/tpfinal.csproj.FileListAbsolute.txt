@@ -142,3 +142,4 @@ D:\descargas\Facultad\2do cuatrimestre 2024\Complegidad\TPF\TPFinal_VELOSO_RAmir
 D:\descargas\Facultad\2do cuatrimestre 2024\Complegidad\TPF\TPFinal_VELOSO_RAmiro_Tomas\obj\Debug\net6.0-windows\tpfinal.pdb
 D:\descargas\Facultad\2do cuatrimestre 2024\Complegidad\TPF\TPFinal_VELOSO_RAmiro_Tomas\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
 D:\descargas\Facultad\2do cuatrimestre 2024\Complegidad\TPF\TPFinal_VELOSO_RAmiro_Tomas\obj\Debug\net6.0-windows\ref\tpfinal.dll
+D:\descargas\Facultad\2do cuatrimestre 2024\Complegidad\TPF\TPFinal_VELOSO_RAmiro_Tomas\obj\Debug\net6.0-windows\tpfinal.sourcelink.json

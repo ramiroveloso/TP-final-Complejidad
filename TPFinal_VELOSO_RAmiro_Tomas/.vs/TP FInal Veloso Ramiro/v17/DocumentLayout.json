@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|d:\\descargas\\facultad\\2do cuatrimestre 2024\\complegidad\\tpf\\tpfinal_veloso_ramiro_tomas\\proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|d:\\descargas\\facultad\\2do cuatrimestre 2024\\complegidad\\tpf\\tpfinal_veloso_ramiro_tomas\\heaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:heaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|d:\\descargas\\facultad\\2do cuatrimestre 2024\\complegidad\\tpf\\tpfinal_veloso_ramiro_tomas\\proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Proceso.cs",
+              "DocumentMoniker": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\Proceso.cs",
+              "RelativeDocumentMoniker": "Proceso.cs",
+              "ToolTip": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\Proceso.cs",
+              "RelativeToolTip": "Proceso.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:36:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Heaps.cs",
               "DocumentMoniker": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\Heaps.cs",
               "RelativeDocumentMoniker": "Heaps.cs",
@@ -34,19 +47,8 @@
               "RelativeToolTip": "Heaps.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAANYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:45:49.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Proceso.cs",
-              "DocumentMoniker": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\Proceso.cs",
-              "RelativeDocumentMoniker": "Proceso.cs",
-              "ToolTip": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\Proceso.cs",
-              "RelativeToolTip": "Proceso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:36:44.521Z"
+              "WhenOpened": "2024-10-30T20:45:49.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +58,7 @@
               "RelativeDocumentMoniker": "Estrategia.cs",
               "ToolTip": "D:\\descargas\\Facultad\\2do cuatrimestre 2024\\Complegidad\\TPF\\TPFinal_VELOSO_RAmiro_Tomas\\Estrategia.cs",
               "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T21:56:28.912Z",
               "EditorCaption": ""
