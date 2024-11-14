@@ -50,7 +50,7 @@ namespace tpfinal
             // Las hojas son los nodos desde la posición n/2 hasta el final de la lista
             for (int i = n / 2; i < n; i++)
             {
-                hojas.Add(heap.GetAt(i));  // Usamos el metodo GetAt en tnato para MinHeap como para MaxHeap
+                hojas.Add(heap.GetAt(i));  // Usamos el metodo GetAt en tanto para MinHeap como para MaxHeap
             }
             return hojas;
         }
